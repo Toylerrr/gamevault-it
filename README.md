@@ -1,5 +1,7 @@
 # GameVault-IT
 
+![screenshot](https://github.com/Toylerrr/gamevault-it/blob/main/img/Screenshot%202024-01-04%20141009.png?raw=true)
+
 GameVault-IT is a Python script that facilitates zipping the contents of a folder, appending game information from the RAWG API to the name, and optionally using a GUI for user-friendly interaction.
 
 RAWG API is requered to match the name to the game https://rawg.io/apidocs
