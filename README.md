@@ -26,3 +26,4 @@ GameVault-IT is a Python script that facilitates zipping the contents of a folde
    Example:
    ```bash
    python gamevault-it.py -d /path/to/folder -g "Game Name" -api YOUR_RAWG_API_KEY
+THIS PROJECT IS 100% AI GENERATED 
