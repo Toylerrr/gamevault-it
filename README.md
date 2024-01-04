@@ -2,6 +2,8 @@
 
 GameVault-IT is a Python script that facilitates zipping the contents of a folder, appending game information from the RAWG API to the name, and optionally using a GUI for user-friendly interaction.
 
+RAWG API is requered to match the name to the game https://rawg.io/apidocs
+
 ## Features:
 
 - **Folder Zipper:** Zips the contents of a specified folder into a compressed archive.
